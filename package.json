@@ -7,6 +7,9 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": ""
+  },
   "engines": {
     "node": ">=10"
   },
@@ -35,7 +38,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "teste",
+  "name": "@cartsys/teste",
   "author": "MikaelAugustoDev",
   "module": "dist/teste.esm.js",
   "size-limit": [

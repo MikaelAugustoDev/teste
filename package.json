@@ -8,7 +8,7 @@
     "src"
   ],
   "repository": {
-    "url": ""
+    "url": "https://github.com/MikaelAugustoDev/teste"
   },
   "engines": {
     "node": ">=10"
@@ -38,7 +38,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@cartsys/teste",
+  "name": "teste",
   "author": "MikaelAugustoDev",
   "module": "dist/teste.esm.js",
   "size-limit": [
